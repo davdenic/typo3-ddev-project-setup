@@ -3,7 +3,6 @@ version: '3.6'
 services:
   web:
     environment:
-    - TYPO3_CONTEXT=Development
     # Environment context
     - TYPO3_CONTEXT=Development
     # Database Credentials
