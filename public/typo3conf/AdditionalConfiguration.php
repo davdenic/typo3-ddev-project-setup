@@ -19,7 +19,7 @@ $GLOBALS['TYPO3_CONF_VARS']['SYS']['trustedHostsPattern'] = getenv('TYPO3_TRUSTE
 $GLOBALS['TYPO3_CONF_VARS']['SYS']['sitename'] = getenv('TYPO3_SITENAME');
 
 // Istall tool password
-$GLOBALS['TYPO3_CONF_VARS']['BE']['installToolPassword'] = getenv('TYPO3_INSTALLTOOLPASSWORD');
+//$GLOBALS['TYPO3_CONF_VARS']['BE']['installToolPassword'] = getenv('TYPO3_INSTALLTOOLPASSWORD');
 
 
 

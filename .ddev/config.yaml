@@ -1,7 +1,7 @@
 APIVersion: v1.2.0
 name: new-typo3-project
 type: typo3
-docroot: web
+docroot: public
 php_version: "7.2"
 webserver_type: nginx-fpm
 router_http_port: "80"
