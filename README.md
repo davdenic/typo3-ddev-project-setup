@@ -1,9 +1,9 @@
-##initial setup for a TYPO3 project using DDEV
+## Initial setup for a TYPO3 project using DDEV
 
-##Version 1.2.x
+## Version 1.2.x
 Uses DDEV 1.2
 
-##Version 1.3.x
+## Version 1.3.x
 Uses DDEV 1.3
 
 *IMPORTANT* MariaDB 1.2.15 is not compatible with doctrine/dbal < 2.7 so TYPO3 vs 8.7 is not perfectly compatible, TYPO3 8.7 uses doctrine/dbal 2.5.x
